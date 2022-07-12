@@ -1,4 +1,4 @@
-# Fire-Station-Coverage-in-Metro-Manila
+# Cathching Fire: Fire Station Coverage in Metro Manila
 
 <p align="justify">Geospatial Analysis Final Project by Marvee dela Resma, Patrick Guillano La Rosa, Miguel Carlo Pingol, and Christian Alfred Soriano - December 13, 2021. Full report can been in the <a href="https://github.com/pgplarosa/Fire-Station-Coverage-in-Metro-Manila/blob/main/GSA%20Team%2014%20Final%20Report.pdf">Technical Report</a>. If you have any questions regarding this study, please send me a message via  <a href="https://www.linkedin.com/in/patricklarosa/">LinkedIn</a>.</p>
 
